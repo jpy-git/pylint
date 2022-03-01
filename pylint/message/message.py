@@ -2,7 +2,6 @@
 # For details: https://github.com/PyCQA/pylint/blob/main/LICENSE
 # Copyright (c) https://github.com/PyCQA/pylint/graphs/contributors
 
-
 import collections
 from typing import Optional, Tuple, Union, overload
 from warnings import warn

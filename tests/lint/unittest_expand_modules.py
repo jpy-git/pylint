@@ -2,7 +2,6 @@
 # For details: https://github.com/PyCQA/pylint/blob/main/LICENSE
 # Copyright (c) https://github.com/PyCQA/pylint/graphs/contributors
 
-
 import re
 from pathlib import Path
 from typing import Dict, Tuple, Type

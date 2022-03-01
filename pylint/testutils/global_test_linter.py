@@ -2,7 +2,6 @@
 # For details: https://github.com/PyCQA/pylint/blob/main/LICENSE
 # Copyright (c) https://github.com/PyCQA/pylint/graphs/contributors
 
-
 from pylint import checkers
 from pylint.lint import PyLinter
 from pylint.testutils.reporter_for_tests import GenericTestReporter

@@ -2,7 +2,6 @@
 # For details: https://github.com/PyCQA/pylint/blob/main/LICENSE
 # Copyright (c) https://github.com/PyCQA/pylint/graphs/contributors
 
-
 """Check source code is ascii only or has an encoding declaration (PEP 263)."""
 
 import re

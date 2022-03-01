@@ -20,6 +20,13 @@ repos:
           - --expand-star-imports
           - --remove-duplicate-keys
           - --remove-unused-variables
+  - repo: https://github.com/Pierre-Sassoulas/copyright_notice_precommit
+    rev: f683ab7d10d5f7e779c75aea17197007583d14e4
+    hooks:
+      - id: copyright-notice
+        args: ["--notice=copyright.txt", "--enforce-all"]
+        exclude: *fixtures
+        types: [python]
   - repo: https://github.com/asottile/pyupgrade
     rev: v2.31.0
     hooks:
