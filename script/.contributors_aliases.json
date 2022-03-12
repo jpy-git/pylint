@@ -1,0 +1,107 @@
+{
+  "Andreas Finkler": {
+    "authoritative_mail": "andi.finkler@gmail.com",
+    "mails": ["andi.finkler@gmail.com", "3929834+DudeNr33@users.noreply.github.com"]
+  },
+  "Ashley Whetter": {
+    "authoritative_mail": "ashley@awhetter.co.uk",
+    "mails": [
+      "ashley@awhetter.co.uk",
+      "awhetter.2011@my.bristol.ac.uk",
+      "asw@dneg.com",
+      "AWhetter@users.noreply.github.com"
+    ]
+  },
+  "Claudiu Popa": {
+    "authoritative_mail": "pcmanticore@gmail.com",
+    "mails": ["cpopa@cloudbasesolutions.com", "pcmanticore@gmail.com"]
+  },
+  "Eli Fine": {
+    "authoritative_mail": "ejfine@gmail.com",
+    "mails": [
+      "ubuntu@ip-172-31-89-59.ec2.internal",
+      "eli88fine@gmail.com",
+      "ejfine@gmail.com"
+    ]
+  },
+  "Google, Inc.": {
+    "authoritative_mail": null,
+    "mails": [
+      "nathaniel@google.com",
+      "mbp@google.com",
+      "tmarek@google.com",
+      "shlomme@gmail.com",
+      "balparda@google.com",
+      "dlindquist@google.com"
+    ]
+  },
+  "LOGILAB S.A. (Paris, FRANCE)": {
+    "authoritative_mail": "contact@logilab.fr",
+    "mails": [
+      "alexandre.fayolle@logilab.fr",
+      "emile.anclin@logilab.fr",
+      "david.douard@logilab.fr",
+      "laura.medioni@logilab.fr",
+      "anthony.truchet@logilab.fr",
+      "alain.leufroy@logilab.fr",
+      "julien.cristau@logilab.fr",
+      "Adrien.DiMascio@logilab.fr",
+      "emile@crater.logilab.fr",
+      "sylvain.thenault@logilab.fr",
+      "pierre-yves.david@logilab.fr",
+      "nicolas.chauvat@logilab.fr",
+      "afayolle.ml@free.fr",
+      "aurelien.campeas@logilab.fr",
+      "charles.hebert@logilab.fr",
+      "julien.jehannet@logilab.fr",
+      "lmedioni@logilab.fr"
+    ]
+  },
+  "Mark Byrne": {
+    "authoritative_mail": "31762852+mbyrnepr2@users.noreply.github.com",
+    "mails": ["31762852+mbyrnepr2@users.noreply.github.com", "mbyrnepr2@gmail.com"]
+  },
+  "Matus Valo": {
+    "authoritative_mail": "matusvalo@users.noreply.github.com",
+    "mails": ["matusvalo@users.noreply.github.com", "matusvalo@gmail.com"]
+  },
+  "Moises Lopez": {
+    "authoritative_mail": "moylop260@vauxoo.com",
+    "mails": ["moylop260@vauxoo.com"]
+  },
+  "Nick Pesce": {
+    "authoritative_mail": "nickpesce22@gmail.com",
+    "mails": ["nickpesce22@gmail.com", "npesce@terpmail.umd.edu"]
+  },
+  "Or Bahari": {
+    "authoritative_mail": "or.ba402@gmail.com",
+    "mails": ["or.ba402@gmail.com", "orbahari@mail.tau.ac.il"]
+  },
+  "Pierre Sassoulas": {
+    "authoritative_mail": "pierre.sassoulas@gmail.com",
+    "mails": [
+      "pierre.sassoulas@gmail.com",
+      "pierre.sassoulas@cea.fr",
+      "pierre.sassoulas@wisebim.fr"
+    ]
+  },
+  "Tushar Sadhwani": {
+    "authoritative_mail": "tushar.sadhwani000@gmail.com",
+    "mails": ["tushar.sadhwani000@gmail.com", "tushar@deepsource.io"]
+  },
+  "Ville Skyttä": {
+    "authoritative_mail": "ville.skytta@iki.fi",
+    "mails": ["ville.skytta@iki.fi", "ville.skytta@upcloud.com"]
+  },
+  "Yu Shao, Pang": {
+    "authoritative_mail": "36848472+yushao2@users.noreply.github.com",
+    "mails": ["36848472+yushao2@users.noreply.github.com", "p.yushao2@gmail.com"]
+  },
+  "bot": {
+    "authoritative_mail": "bot@noreply.github.com",
+    "mails": [
+      "66853113+pre-commit-ci[bot]@users.noreply.github.com",
+      "49699333+dependabot[bot]@users.noreply.github.com"
+    ]
+  }
+}
