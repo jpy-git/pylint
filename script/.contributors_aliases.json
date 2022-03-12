@@ -11,9 +11,13 @@
     "authoritative_mail": "a.simmons@deakin.edu.au",
     "mails": ["a.simmons@deakin.edu.au", "anjsimmo@gmail.com"]
   },
-  "Areveny": {
+  "Arianna Y": {
     "authoritative_mail": "areveny@protonmail.com",
-    "mails": ["areveny@protonmail.com", "self@areveny.com"],
+    "mails": [
+      "areveny@protonmail.com",
+      "self@areveny.com",
+      "92831762+areveny@users.noreply.github.com"
+    ],
     "team": "Maintainers"
   },
   "Aru Sahni": {
@@ -110,7 +114,6 @@
     "mails": [
       "nathaniel@google.com",
       "mbp@google.com",
-      "tmarek@google.com",
       "shlomme@gmail.com",
       "balparda@google.com",
       "dlindquist@google.com"
@@ -261,7 +264,12 @@
   "Sylvain Thénault": {
     "authoritative_mail": "thenault@gmail.com",
     "mails": ["thenault@gmail.com", "sylvain.thenault@logilab.fr"],
-    "team": "Maintainers"
+    "team": "Ex-maintainers"
+  },
+  "Torsten Marek": {
+    "authoritative_mail": "tmarek@google.com",
+    "mails": ["tmarek@google.com"],
+    "team": "Ex-maintainers"
   },
   "Tushar Sadhwani": {
     "authoritative_mail": "tushar.sadhwani000@gmail.com",
