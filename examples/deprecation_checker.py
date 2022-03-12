@@ -1,7 +1,3 @@
-# Licensed under the GPL: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
-# For details: https://github.com/PyCQA/pylint/blob/main/LICENSE
-# Copyright (c) https://github.com/PyCQA/pylint/blob/main/CONTRIBUTORS.txt
-
 """Example checker detecting deprecated functions/methods. Following example searches for usages of
 deprecated function `deprecated_function` and deprecated method `MyClass.deprecated_method`
 from module mymodule:
