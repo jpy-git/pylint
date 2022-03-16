@@ -1,68 +1,74 @@
 {
-  "13665637+DanielNoord@users.noreply.github.com": {
+  "Daniël van Noord": {
+    "authoritative_mail": "13665637+DanielNoord@users.noreply.github.com",
     "mails": ["13665637+DanielNoord@users.noreply.github.com"],
-    "name": "Daniël van Noord",
+
     "team": "Maintainers"
   },
-  "30130371+cdce8p@users.noreply.github.com": {
+  "Marc Mueller": {
+    "authoritative_mail": "30130371+cdce8p@users.noreply.github.com",
     "mails": ["30130371+cdce8p@users.noreply.github.com"],
-    "name": "Marc Mueller",
+
     "team": "Maintainers"
   },
-  "31762852+mbyrnepr2@users.noreply.github.com": {
-    "mails": ["31762852+mbyrnepr2@users.noreply.github.com", "mbyrnepr2@gmail.com"],
-    "name": "Mark Byrne"
+  "Mark Byrne": {
+    "authoritative_mail": "31762852+mbyrnepr2@users.noreply.github.com",
+    "mails": ["31762852+mbyrnepr2@users.noreply.github.com", "mbyrnepr2@gmail.com"]
   },
-  "31987769+sushobhit27@users.noreply.github.com": {
+  "Sushobhit": {
+    "authoritative_mail": "31987769+sushobhit27@users.noreply.github.com",
     "mails": [
       "sushobhitsolanki@gmail.com",
       "31987769+sushobhit27@users.noreply.github.com"
-    ],
-    "name": "Sushobhit"
+    ]
   },
-  "36848472+yushao2@users.noreply.github.com": {
+  "Yu Shao, Pang": {
+    "authoritative_mail": "36848472+yushao2@users.noreply.github.com",
     "mails": ["36848472+yushao2@users.noreply.github.com", "p.yushao2@gmail.com"],
-    "name": "Yu Shao, Pang",
+
     "team": "Maintainers"
   },
-  "61059243+tiagohonorato@users.noreply.github.com": {
+  "Tiago Honorato": {
+    "authoritative_mail": "61059243+tiagohonorato@users.noreply.github.com",
     "mails": [
       "tiagohonorato1@gmail.com",
       "61059243+tiagohonorato@users.noreply.github.com"
-    ],
-    "name": "Tiago Honorato"
+    ]
   },
-  "PaulRenvoise@users.noreply.github.com": {
-    "mails": ["renvoisepaul@gmail.com", "PaulRenvoise@users.noreply.github.com"],
-    "name": "Paul Renvoisé"
+  "Paul Renvoisé": {
+    "authoritative_mail": "PaulRenvoise@users.noreply.github.com",
+    "mails": ["renvoisepaul@gmail.com", "PaulRenvoise@users.noreply.github.com"]
   },
-  "a.simmons@deakin.edu.au": {
-    "mails": ["a.simmons@deakin.edu.au", "anjsimmo@gmail.com"],
-    "name": "Andrew Simmons"
+  "Andrew Simmons": {
+    "authoritative_mail": "a.simmons@deakin.edu.au",
+    "mails": ["a.simmons@deakin.edu.au", "anjsimmo@gmail.com"]
   },
-  "alexandre.fayolle@logilab.fr": {
-    "mails": ["alexandre.fayolle@logilab.fr", "afayolle.ml@free.fr"],
-    "name": "Alexandre Fayolle"
+  "Alexandre Fayolle": {
+    "authoritative_mail": "alexandre.fayolle@logilab.fr",
+    "mails": ["alexandre.fayolle@logilab.fr", "afayolle.ml@free.fr"]
   },
-  "andi.finkler@gmail.com": {
+  "Andreas Finkler": {
+    "authoritative_mail": "andi.finkler@gmail.com",
     "mails": ["andi.finkler@gmail.com", "3929834+DudeNr33@users.noreply.github.com"],
-    "name": "Andreas Finkler",
+
     "team": "Maintainers"
   },
-  "areveny@protonmail.com": {
+  "Arianna Yang": {
+    "authoritative_mail": "areveny@protonmail.com",
     "mails": [
       "areveny@protonmail.com",
       "self@areveny.com",
       "92831762+areveny@users.noreply.github.com"
     ],
-    "name": "Arianna Yang",
+
     "team": "Maintainers"
   },
-  "arusahni@gmail.com": {
-    "mails": ["arusahni@gmail.com", "aru@thehumangeo.com"],
-    "name": "Aru Sahni"
+  "Aru Sahni": {
+    "authoritative_mail": "arusahni@gmail.com",
+    "mails": ["arusahni@gmail.com", "aru@thehumangeo.com"]
   },
-  "ashley@awhetter.co.uk": {
+  "Ashley Whetter": {
+    "authoritative_mail": "ashley@awhetter.co.uk",
     "mails": [
       "ashleyw@activestate.com",
       "ashley@awhetter.co.uk",
@@ -70,246 +76,258 @@
       "asw@dneg.com",
       "AWhetter@users.noreply.github.com"
     ],
-    "name": "Ashley Whetter",
+
     "team": "Maintainers"
   },
-  "balint.mihai@gmail.com": {
-    "mails": ["balint.mihai@gmail.com", "mihai@cs.upt.ro"],
-    "name": "Mihai Balint"
+  "Mihai Balint": {
+    "authoritative_mail": "balint.mihai@gmail.com",
+    "mails": ["balint.mihai@gmail.com", "mihai@cs.upt.ro"]
   },
-  "bot@noreply.github.com": {
+  "bot": {
+    "authoritative_mail": "bot@noreply.github.com",
     "mails": [
       "66853113+pre-commit-ci[bot]@users.noreply.github.com",
       "49699333+dependabot[bot]@users.noreply.github.com"
-    ],
-    "name": "bot"
+    ]
   },
-  "bryce.paul.guinta@gmail.com": {
+  "Bryce Guinta": {
+    "authoritative_mail": "bryce.paul.guinta@gmail.com",
     "mails": ["bryce.paul.guinta@gmail.com", "bryce.guinta@protonmail.com"],
-    "name": "Bryce Guinta",
+
     "team": "Maintainers"
   },
-  "calen.pennington@gmail.com": {
-    "mails": ["cale@edx.org", "calen.pennington@gmail.com"],
-    "name": "Calen Pennington"
+  "Calen Pennington": {
+    "authoritative_mail": "calen.pennington@gmail.com",
+    "mails": ["cale@edx.org", "calen.pennington@gmail.com"]
   },
-  "carli.freudenberg@energymeteo.de": {
-    "mails": ["carli.freudenberg@energymeteo.de"],
-    "name": "Carli Freudenberg"
+  "Carli Freudenberg": {
+    "authoritative_mail": "carli.freudenberg@energymeteo.de",
+    "mails": ["carli.freudenberg@energymeteo.de"]
   },
-  "ceridwenv@gmail.com": {
+  "Ceridwen": {
+    "authoritative_mail": "ceridwenv@gmail.com",
     "mails": ["ceridwenv@gmail.com"],
-    "name": "Ceridwen",
+
     "team": "Maintainers"
   },
-  "david.douard@sdfa3.org": {
-    "mails": ["david.douard@sdfa3.org", "david.douard@logilab.fr"],
-    "name": "David Douard"
+  "David Douard": {
+    "authoritative_mail": "david.douard@sdfa3.org",
+    "mails": ["david.douard@sdfa3.org", "david.douard@logilab.fr"]
   },
-  "david.pursehouse@gmail.com": {
-    "mails": ["david.pursehouse@gmail.com", "david.pursehouse@sonymobile.com"],
-    "name": "David Pursehouse"
+  "David Pursehouse": {
+    "authoritative_mail": "david.pursehouse@gmail.com",
+    "mails": ["david.pursehouse@gmail.com", "david.pursehouse@sonymobile.com"]
   },
-  "dharding@gmail.com": {
-    "mails": ["dharding@gmail.com", "dharding@living180.net"],
-    "name": "Daniel Harding"
+  "Daniel Harding": {
+    "authoritative_mail": "dharding@gmail.com",
+    "mails": ["dharding@gmail.com", "dharding@living180.net"]
   },
-  "dmand@yandex.ru": {
+  "Dimitri Prybysh": {
+    "authoritative_mail": "dmand@yandex.ru",
     "mails": ["dmand@yandex.ru"],
-    "name": "Dimitri Prybysh",
+
     "team": "Maintainers"
   },
-  "ejfine@gmail.com": {
+  "Eli Fine": {
+    "authoritative_mail": "ejfine@gmail.com",
     "mails": [
       "ubuntu@ip-172-31-89-59.ec2.internal",
       "eli88fine@gmail.com",
       "ejfine@gmail.com"
-    ],
-    "name": "Eli Fine"
+    ]
   },
-  "email@holger-peters.de": {
-    "mails": ["email@holger-peters.de", "holger.peters@blue-yonder.com"],
-    "name": "Holger Peters"
+  "Holger Peters": {
+    "authoritative_mail": "email@holger-peters.de",
+    "mails": ["email@holger-peters.de", "holger.peters@blue-yonder.com"]
   },
-  "emile.anclin@logilab.fr": {
-    "mails": ["emile.anclin@logilab.fr", ""],
-    "name": "Emile Anclin"
+  "Emile Anclin": {
+    "authoritative_mail": null,
+    "mails": ["emile.anclin@logilab.fr", null]
   },
-  "emile@crater.logilab.fr": {
-    "mails": ["emile@crater.logilab.fr"],
-    "name": "Émile Crater"
+  "Émile Crater": {
+    "authoritative_mail": "emile@crater.logilab.fr",
+    "mails": ["emile@crater.logilab.fr"]
   },
-  "fortemarco.irl@gmail.com": {
-    "mails": ["fortemarco.irl@gmail.com", "marcoyolos"],
-    "name": "Marco Forte"
+  "Marco Forte": {
+    "authoritative_mail": "fortemarco.irl@gmail.com",
+    "mails": ["fortemarco.irl@gmail.com", "marcoyolos"]
   },
-  "frank@doublethefish.com": {
-    "mails": ["frank@doublethefish.com", "doublethefish@gmail.com"],
-    "name": "Frank Harrison"
+  "Frank Harrison": {
+    "authoritative_mail": "frank@doublethefish.com",
+    "mails": ["frank@doublethefish.com", "doublethefish@gmail.com"]
   },
-  "g@briel.dev": {
-    "mails": ["g@briel.dev", "gabriel@sezefredo.com.br"],
-    "name": "Gabriel R Sezefredo"
+  "Gabriel R Sezefredo": {
+    "authoritative_mail": "g@briel.dev",
+    "mails": ["g@briel.dev", "gabriel@sezefredo.com.br"]
   },
-  "github@euresti.com": {
-    "mails": ["david@dropbox.com", "github@euresti.com"],
-    "name": "David Euresti"
+  "David Euresti": {
+    "authoritative_mail": "github@euresti.com",
+    "mails": ["david@dropbox.com", "github@euresti.com"]
   },
-  "glenn@e-dad.net": {
-    "mails": ["glenn@e-dad.net", "glmatthe@cisco.com"],
-    "name": "Glenn Matthews"
+  "Glenn Matthews": {
+    "authoritative_mail": "glenn@e-dad.net",
+    "mails": ["glenn@e-dad.net", "glmatthe@cisco.com"]
   },
-  "guillaume.peillex@gmail.com": {
+  "Hippo91": {
+    "authoritative_mail": "guillaume.peillex@gmail.com",
     "mails": ["guillaume.peillex@gmail.com", "guillaume.peillex@gmail.col"],
-    "name": "Hippo91",
+
     "team": "Maintainers"
   },
-  "hg@stevenmyint.com": {
-    "mails": ["hg@stevenmyint.com", "git@stevenmyint.com"],
-    "name": "Steven Myint"
+  "Steven Myint": {
+    "authoritative_mail": "hg@stevenmyint.com",
+    "mails": ["hg@stevenmyint.com", "git@stevenmyint.com"]
   },
-  "jacob@bogdanov.dev": {
-    "mails": ["jacob@bogdanov.dev", "jbogdanov@128technology.com"],
-    "name": "Jacob Bogdanov"
+  "Jacob Bogdanov": {
+    "authoritative_mail": "jacob@bogdanov.dev",
+    "mails": ["jacob@bogdanov.dev", "jbogdanov@128technology.com"]
   },
-  "jacobtylerwalls@gmail.com": {
+  "Jacob Walls": {
+    "authoritative_mail": "jacobtylerwalls@gmail.com",
     "mails": ["jacobtylerwalls@gmail.com"],
-    "name": "Jacob Walls",
+
     "team": "Maintainers"
   },
-  "joshdcannon@gmail.com": {
-    "mails": ["joshdcannon@gmail.com", "joshua.cannon@ni.com"],
-    "name": "Joshua Cannon"
+  "Joshua Cannon": {
+    "authoritative_mail": "joshdcannon@gmail.com",
+    "mails": ["joshdcannon@gmail.com", "joshua.cannon@ni.com"]
   },
-  "justinnhli@gmail.com": {
-    "mails": ["justinnhli@gmail.com", "justinnhli@users.noreply.github.com"],
-    "name": "Justin Li"
+  "Justin Li": {
+    "authoritative_mail": "justinnhli@gmail.com",
+    "mails": ["justinnhli@gmail.com", "justinnhli@users.noreply.github.com"]
   },
-  "kavinsingh@hotmail.com": {
-    "mails": ["kavin.singh@mail.utoronto.ca", "kavinsingh@hotmail.com"],
-    "name": "Kavins Singh"
+  "Kavins Singh": {
+    "authoritative_mail": "kavinsingh@hotmail.com",
+    "mails": ["kavin.singh@mail.utoronto.ca", "kavinsingh@hotmail.com"]
   },
-  "keichi.t@me.com": {
-    "mails": ["hello@keichi.dev", "keichi.t@me.com"],
-    "name": "Keichi Takahashi"
+  "Keichi Takahashi": {
+    "authoritative_mail": "keichi.t@me.com",
+    "mails": ["hello@keichi.dev", "keichi.t@me.com"]
   },
-  "laura.medioni@logilab.fr": {
-    "mails": ["laura.medioni@logilab.fr", "lmedioni@logilab.fr"],
-    "name": "Laura Médioni"
+  "Laura Médioni": {
+    "authoritative_mail": "laura.medioni@logilab.fr",
+    "mails": ["laura.medioni@logilab.fr", "lmedioni@logilab.fr"]
   },
-  "m.fesenko@corp.vk.com": {
-    "mails": ["m.fesenko@corp.vk.com", "proggga@gmail.com"],
-    "name": "Mikhail Fesenko"
+  "Mikhail Fesenko": {
+    "authoritative_mail": "m.fesenko@corp.vk.com",
+    "mails": ["m.fesenko@corp.vk.com", "proggga@gmail.com"]
   },
-  "mariocj89@gmail.com": {
-    "mails": ["mcorcherojim@bloomberg.net", "mariocj89@gmail.com"],
-    "name": "Mario Corchero"
+  "Mario Corchero": {
+    "authoritative_mail": "mariocj89@gmail.com",
+    "mails": ["mcorcherojim@bloomberg.net", "mariocj89@gmail.com"]
   },
-  "mark00bell@googlemail.com": {
-    "mails": ["mark00bell@googlemail.com", "MarkCBell@users.noreply.github.com"],
-    "name": "Mark Bell"
+  "Mark Bell": {
+    "authoritative_mail": "mark00bell@googlemail.com",
+    "mails": ["mark00bell@googlemail.com", "MarkCBell@users.noreply.github.com"]
   },
-  "martin@vielsmaier.net": {
-    "mails": ["martin@vielsmaier.net", "martin.vielsmaier@gmail.com"],
-    "name": "Martin Vielsmaier"
+  "Martin Vielsmaier": {
+    "authoritative_mail": "martin@vielsmaier.net",
+    "mails": ["martin@vielsmaier.net", "martin.vielsmaier@gmail.com"]
   },
-  "matusvalo@users.noreply.github.com": {
-    "mails": ["matusvalo@users.noreply.github.com", "matusvalo@gmail.com"],
-    "name": "Matus Valo"
+  "Matus Valo": {
+    "authoritative_mail": "matusvalo@users.noreply.github.com",
+    "mails": ["matusvalo@users.noreply.github.com", "matusvalo@gmail.com"]
   },
-  "me@the-compiler.org": {
+  "Florian Bruhin": {
+    "authoritative_mail": "me@the-compiler.org",
     "mails": [
       "me@the-compiler.org",
       "git@the-compiler.org",
       "bitbucket.org@the-compiler.org"
     ],
-    "name": "Florian Bruhin",
+
     "team": "Maintainers"
   },
-  "moylop260@vauxoo.com": {
-    "mails": ["moylop260@vauxoo.com"],
-    "name": "Moises Lopez"
+  "Moises Lopez": {
+    "authoritative_mail": "moylop260@vauxoo.com",
+    "mails": ["moylop260@vauxoo.com"]
   },
-  "nelfin@gmail.com": {
-    "mails": ["nelfin@gmail.com", "hello@nelf.in"],
-    "name": "Andrew Haigh"
+  "Andrew Haigh": {
+    "authoritative_mail": "nelfin@gmail.com",
+    "mails": ["nelfin@gmail.com", "hello@nelf.in"]
   },
-  "nickpesce22@gmail.com": {
-    "mails": ["nickpesce22@gmail.com", "npesce@terpmail.umd.edu"],
-    "name": "Nick Pesce"
+  "Nick Pesce": {
+    "authoritative_mail": "nickpesce22@gmail.com",
+    "mails": ["nickpesce22@gmail.com", "npesce@terpmail.umd.edu"]
   },
-  "or.ba402@gmail.com": {
-    "mails": ["or.ba402@gmail.com", "orbahari@mail.tau.ac.il"],
-    "name": "Or Bahari"
+  "Or Bahari": {
+    "authoritative_mail": "or.ba402@gmail.com",
+    "mails": ["or.ba402@gmail.com", "orbahari@mail.tau.ac.il"]
   },
-  "pcmanticore@gmail.com": {
+  "Claudiu Popa": {
+    "authoritative_mail": "pcmanticore@gmail.com",
     "mails": ["cpopa@cloudbasesolutions.com", "pcmanticore@gmail.com"],
-    "name": "Claudiu Popa",
+
     "team": "Ex-maintainers"
   },
-  "peter.kolbus@gmail.com": {
-    "mails": ["peter.kolbus@gmail.com", "peter.kolbus@garmin.com"],
-    "name": "Peter Kolbus"
+  "Peter Kolbus": {
+    "authoritative_mail": "peter.kolbus@gmail.com",
+    "mails": ["peter.kolbus@gmail.com", "peter.kolbus@garmin.com"]
   },
-  "pierre.sassoulas@gmail.com": {
+  "Pierre Sassoulas": {
+    "authoritative_mail": "pierre.sassoulas@gmail.com",
     "mails": [
       "pierre.sassoulas@gmail.com",
       "pierre.sassoulas@cea.fr",
       "pierre.sassoulas@wisebim.fr"
     ],
-    "name": "Pierre Sassoulas",
+
     "team": "Maintainers"
   },
-  "raphael@makeleaps.com": {
-    "mails": ["raphael@rtpg.co", "raphael@makeleaps.com"],
-    "name": "Raphael Gaschignard"
+  "Raphael Gaschignard": {
+    "authoritative_mail": "raphael@makeleaps.com",
+    "mails": ["raphael@rtpg.co", "raphael@makeleaps.com"]
   },
-  "rhys.fureigh@gsa.gov": {
-    "mails": ["rhys.fureigh@gsa.gov", "fureigh@users.noreply.github.com"],
-    "name": "Fureigh"
+  "Fureigh": {
+    "authoritative_mail": "rhys.fureigh@gsa.gov",
+    "mails": ["rhys.fureigh@gsa.gov", "fureigh@users.noreply.github.com"]
   },
-  "rogalski.91@gmail.com": {
+  "Łukasz Rogalski": {
+    "authoritative_mail": "rogalski.91@gmail.com",
     "mails": ["rogalski.91@gmail.com", "lukasz.rogalski@intel.com"],
-    "name": "Łukasz Rogalski",
+
     "team": "Maintainers"
   },
-  "roy.williams.iii@gmail.com": {
+  "Roy Williams": {
+    "authoritative_mail": "roy.williams.iii@gmail.com",
     "mails": ["roy.williams.iii@gmail.com", "rwilliams@lyft.com"],
-    "name": "Roy Williams",
+
     "team": "Maintainers"
   },
-  "shlomme@gmail.com": {
+  "Torsten Marek": {
+    "authoritative_mail": "shlomme@gmail.com",
     "mails": ["shlomme@gmail.com", "tmarek@google.com"],
-    "name": "Torsten Marek",
+
     "team": "Ex-maintainers"
   },
-  "stefan@sofa-rockers.org": {
-    "mails": ["stefan.scherfke@energymeteo.de", "stefan@sofa-rockers.org"],
-    "name": "Stefan Scherfke"
+  "Stefan Scherfke": {
+    "authoritative_mail": "stefan@sofa-rockers.org",
+    "mails": ["stefan.scherfke@energymeteo.de", "stefan@sofa-rockers.org"]
   },
-  "thenault@gmail.com": {
+  "Sylvain Thénault": {
+    "authoritative_mail": "thenault@gmail.com",
     "mails": ["thenault@gmail.com", "sylvain.thenault@logilab.fr"],
-    "name": "Sylvain Thénault",
+
     "team": "Ex-maintainers"
   },
-  "tushar.sadhwani000@gmail.com": {
+  "Tushar Sadhwani": {
+    "authoritative_mail": "tushar.sadhwani000@gmail.com",
     "mails": [
       "tushar.sadhwani000@gmail.com",
       "tushar@deepsource.io",
       "86737547+tushar-deepsource@users.noreply.github.com"
-    ],
-    "name": "Tushar Sadhwani"
+    ]
   },
-  "vapier@gmail.com": {
-    "mails": ["vapier@gmail.com", "vapier@gentoo.org"],
-    "name": "Mike Frysinger"
+  "Mike Frysinger": {
+    "authoritative_mail": "vapier@gmail.com",
+    "mails": ["vapier@gmail.com", "vapier@gentoo.org"]
   },
-  "ville.skytta@iki.fi": {
-    "mails": ["ville.skytta@iki.fi", "ville.skytta@upcloud.com"],
-    "name": "Ville Skyttä"
+  "Ville Skyttä": {
+    "authoritative_mail": "ville.skytta@iki.fi",
+    "mails": ["ville.skytta@iki.fi", "ville.skytta@upcloud.com"]
   },
-  "vladtemian@gmail.com": {
-    "mails": ["vladtemian@gmail.com"],
-    "name": "Vlad Temian"
+  "Vlad Temian": {
+    "authoritative_mail": "vladtemian@gmail.com",
+    "mails": ["vladtemian@gmail.com"]
   }
 }
