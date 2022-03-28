@@ -382,6 +382,7 @@ class NameChecker(_BasicChecker):
         "assign-to-new-keyword",
         "typevar-name-incorrect-variance",
         "typevar-double-variance",
+        "typevar-name-mismatch",
     )
     def visit_assignname(self, node: nodes.AssignName) -> None:
         """Check module level assigned names."""
