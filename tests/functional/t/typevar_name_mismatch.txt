@@ -1,0 +1,5 @@
+typevar-name-mismatch:4:0:4:1::"TypeVar must be assigned to a variable named ""T""":INFERENCE
+typevar-name-mismatch:5:0:5:4::"TypeVar must be assigned to a variable named ""T""":INFERENCE
+typevar-name-mismatch:6:0:6:8::"TypeVar must be assigned to a variable named ""T""":INFERENCE
+typevar-name-mismatch:7:0:7:4::"TypeVar must be assigned to a variable named ""T""":INFERENCE
+typevar-name-mismatch:7:6:7:14::"TypeVar must be assigned to a variable named ""T""":INFERENCE

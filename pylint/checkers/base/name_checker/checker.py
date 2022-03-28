@@ -164,6 +164,12 @@ class NameChecker(_BasicChecker):
             'Emitted when both the "covariant" and "contravariant" '
             'keyword arguments are set to "True" in a TypeVar.',
         ),
+        "C0107": (
+            'TypeVar must be assigned to a variable named "%s"',
+            "typevar-name-mismatch",
+            "Emitted when a TypeVar is assigned to a variable "
+            "that does not match its name argument.",
+        ),
         "W0111": (
             "Name %s will become a keyword in Python %s",
             "assign-to-new-keyword",
@@ -563,12 +569,15 @@ class NameChecker(_BasicChecker):
         """Check for TypeVar lint violations."""
         if isinstance(node.parent, nodes.Assign):
             keywords = node.assign_type().value.keywords
+            args = node.assign_type().value.args
         elif isinstance(node.parent, nodes.Tuple):
             keywords = (
                 node.assign_type().value.elts[node.parent.elts.index(node)].keywords
             )
+            args = node.assign_type().value.elts[node.parent.elts.index(node)].args
 
         variance = TypeVarVariance.invariant
+        name_arg = None
         for kw in keywords:
             if kw.arg == "covariant" and kw.value.value:
                 variance = (
@@ -587,6 +596,20 @@ class NameChecker(_BasicChecker):
                     not in (TypeVarVariance.covariant, TypeVarVariance.double_variant)
                     else TypeVarVariance.double_variant
                 )
+
+            if kw.arg == "name" and isinstance(kw.value, nodes.Const):
+                name_arg = kw.value.value
+
+        if not name_arg and args and isinstance(args[0], nodes.Const):
+            name_arg = args[0].value
+
+        if name_arg is not None:
+            self.add_message(
+                "typevar-name-mismatch",
+                node=node,
+                args=(name_arg),
+                confidence=interfaces.INFERENCE,
+            )
 
         if variance == TypeVarVariance.double_variant:
             self.add_message(
